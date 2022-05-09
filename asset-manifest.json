@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.7c2c9e7b.css",
-    "main.js": "./static/js/main.05d64968.js",
-    "static/js/787.15f2ece3.chunk.js": "./static/js/787.15f2ece3.chunk.js",
-    "index.html": "./index.html",
-    "static/media/backwardArrow.svg": "./static/media/backwardArrow.c19b5756edf74886f96311e465df1457.svg",
-    "main.7c2c9e7b.css.map": "./static/css/main.7c2c9e7b.css.map",
-    "main.05d64968.js.map": "./static/js/main.05d64968.js.map",
-    "787.15f2ece3.chunk.js.map": "./static/js/787.15f2ece3.chunk.js.map"
+    "main.css": "./react-payments/static/css/main.7c2c9e7b.css",
+    "main.js": "./react-payments/static/js/main.32d25a99.js",
+    "static/js/787.15f2ece3.chunk.js": "./react-payments/static/js/787.15f2ece3.chunk.js",
+    "index.html": "./react-payments/index.html",
+    "static/media/backwardArrow.svg": "./react-payments/static/media/backwardArrow.c19b5756edf74886f96311e465df1457.svg",
+    "main.7c2c9e7b.css.map": "./react-payments/static/css/main.7c2c9e7b.css.map",
+    "main.32d25a99.js.map": "./react-payments/static/js/main.32d25a99.js.map",
+    "787.15f2ece3.chunk.js.map": "./react-payments/static/js/787.15f2ece3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7c2c9e7b.css",
-    "static/js/main.05d64968.js"
+    "static/js/main.32d25a99.js"
   ]
 }
